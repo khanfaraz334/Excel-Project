@@ -15,5 +15,8 @@ I carried out the following procedures to clean and analyze data within Excel -
 11. Calculated average price and ratings and named it as Summary.
 12. Made Pivot table and charts after data cleaning.
 13. Plotted two bar graphs of an average price and rating.
-    
+
+Conclusion-
+1. We can conclude from the bar chart that VERTU brand is the most expensive.
+2. We can conclude from the bar chart that LEIT brand has the best rating.
     
