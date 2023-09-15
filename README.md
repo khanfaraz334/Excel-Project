@@ -1,3 +1,9 @@
+# Data Source 
+
+Data downloaded from [Kaggle](https://www.kaggle.com/datasets/abdurrahman22224/smartphone-new-data)
+
+# Data Description
+
 This dataset is all about smartphones, various features they possess, ratings and prices of each brand.
 
 I carried out the following procedures to clean and analyze data within Excel -
@@ -16,7 +22,8 @@ I carried out the following procedures to clean and analyze data within Excel -
 12. Made Pivot table and charts after data cleaning.
 13. Plotted two bar graphs of an average price and rating.
 
-Conclusion-
+# Conclusions
+
 1. We can conclude from the bar chart that VERTU brand is the most expensive.
 2. We can conclude from the bar chart that LEIT brand has the best rating.
     
