@@ -6,6 +6,7 @@ Data downloaded from [Kaggle](https://www.kaggle.com/datasets/abdurrahman22224/s
 
 This dataset is all about smartphones, various features they possess, ratings and prices of each brand.
 
+# Data Cleaning
 I carried out the following procedures to clean and analyze data within Excel -
 
 1.  Duplicates were not found in the dataset.
